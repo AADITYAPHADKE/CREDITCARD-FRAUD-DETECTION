@@ -10,3 +10,5 @@ ALGORIHTM USED--
 								b)Random Forest
 								C)XGBoost
 
+FILE SIZE--69MB
+LINK TO DOWNLOAD--https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
